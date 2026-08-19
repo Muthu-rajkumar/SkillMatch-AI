@@ -1,0 +1,9 @@
+data/*.csv
+models/*.pkl
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+screenshots/*
+!screenshots/.gitkeep

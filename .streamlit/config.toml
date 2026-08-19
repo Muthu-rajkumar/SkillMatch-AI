@@ -1,0 +1,12 @@
+[theme]
+# "SkillMatch" theme — deep indigo background + violet accent
+base = "dark"
+primaryColor = "#8B5CF6"
+backgroundColor = "#0F0B1E"
+secondaryBackgroundColor = "#1A1430"
+textColor = "#EDE9FE"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
